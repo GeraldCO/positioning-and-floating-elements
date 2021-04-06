@@ -291,7 +291,8 @@ aside div article{
     padding: 0 55px;
 }
 
-#footer-line{ border: 2px solid #e2e2e2; }
+#footer-line{ border: 2px solid #e2e2e2;
+margin-bottom: 15px; }
 
 .footer-menu-list h3{
     font-size: 13px;
@@ -301,6 +302,10 @@ aside div article{
     margin: 0;
     text-transform: uppercase;
     width: 150px;
+}
+
+footer{
+    margin: 25px 0;
 }
 
 .footer-menu-list ul li{
